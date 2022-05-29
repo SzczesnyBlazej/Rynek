@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "ff542fb8-010f-4ab3-af5b-28c2c957bd01": {
+      "ProjectGuid": "ff542fb8-010f-4ab3-af5b-28c2c957bd01",
+      "DisplayName": "Rynek",
+      "ColorIndex": 0
+    },
+    "d0b841cd-fbcb-45cd-b566-f4479301e4d2": {
+      "ProjectGuid": "d0b841cd-fbcb-45cd-b566-f4479301e4d2",
+      "DisplayName": "TestyRynek",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
